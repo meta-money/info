@@ -3,8 +3,8 @@
 	font-style: normal;
 	font-weight: 100;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-Thin.5b7f1750.woff2) format("woff2"),
-		url(/assets/fonts/Inter-Thin.2a24f83a.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Thin.5b7f1750.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Thin.2a24f83a.woff) format("woff");
 }
 
 @font-face {
@@ -12,8 +12,8 @@
 	font-style: italic;
 	font-weight: 100;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-ThinItalic.626503a6.woff2) format("woff2"),
-		url(/assets/fonts/Inter-ThinItalic.823c319a.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-ThinItalic.626503a6.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-ThinItalic.823c319a.woff) format("woff");
 }
 
 @font-face {
@@ -30,8 +30,8 @@
 	font-style: italic;
 	font-weight: 200;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-ExtraLightItalic.cca8e7e8.woff2) format("woff2"),
-		url(/assets/fonts/Inter-ExtraLightItalic.dd7136ac.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-ExtraLightItalic.cca8e7e8.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-ExtraLightItalic.dd7136ac.woff) format("woff");
 }
 
 @font-face {
@@ -39,8 +39,8 @@
 	font-style: normal;
 	font-weight: 300;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-Light.ab15890d.woff2) format("woff2"),
-		url(/assets/fonts/Inter-Light.3ee890bd.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Light.ab15890d.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Light.3ee890bd.woff) format("woff");
 }
 
 @font-face {
@@ -48,8 +48,8 @@
 	font-style: italic;
 	font-weight: 300;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-LightItalic.c0c6857d.woff2) format("woff2"),
-		url(/assets/fonts/Inter-LightItalic.b199a1a0.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-LightItalic.c0c6857d.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-LightItalic.b199a1a0.woff) format("woff");
 }
 
 @font-face {
@@ -57,8 +57,8 @@
 	font-style: normal;
 	font-weight: 400;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-Regular.26a30a5f.woff2) format("woff2"),
-		url(/assets/fonts/Inter-Regular.e148c4a1.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Regular.26a30a5f.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Regular.e148c4a1.woff) format("woff");
 }
 
 @font-face {
@@ -66,8 +66,8 @@
 	font-style: italic;
 	font-weight: 400;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-Italic.b89e547a.woff2) format("woff2"),
-		url(/assets/fonts/Inter-Italic.d3b5fcca.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Italic.b89e547a.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Italic.d3b5fcca.woff) format("woff");
 }
 
 @font-face {
@@ -75,8 +75,8 @@
 	font-style: normal;
 	font-weight: 500;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-Medium.d0a58d95.woff2) format("woff2"),
-		url(/assets/fonts/Inter-Medium.eec0ea57.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Medium.d0a58d95.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Medium.eec0ea57.woff) format("woff");
 }
 
 @font-face {
@@ -84,8 +84,8 @@
 	font-style: italic;
 	font-weight: 500;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-MediumItalic.dd1448de.woff2) format("woff2"),
-		url(/assets/fonts/Inter-MediumItalic.77fc6c7d.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-MediumItalic.dd1448de.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-MediumItalic.77fc6c7d.woff) format("woff");
 }
 
 @font-face {
@@ -93,8 +93,8 @@
 	font-style: normal;
 	font-weight: 600;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-SemiBold.2244d96c.woff2) format("woff2"),
-		url(/assets/fonts/Inter-SemiBold.d2e3b0e2.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-SemiBold.2244d96c.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-SemiBold.d2e3b0e2.woff) format("woff");
 }
 
 @font-face {
@@ -102,8 +102,8 @@
 	font-style: italic;
 	font-weight: 600;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-SemiBoldItalic.3c66f84b.woff2) format("woff2"),
-		url(/assets/fonts/Inter-SemiBoldItalic.349f63a5.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-SemiBoldItalic.3c66f84b.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-SemiBoldItalic.349f63a5.woff) format("woff");
 }
 
 @font-face {
@@ -111,8 +111,8 @@
 	font-style: normal;
 	font-weight: 700;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-Bold.df60e0aa.woff2) format("woff2"),
-		url(/assets/fonts/Inter-Bold.828b5dfc.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Bold.df60e0aa.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Bold.828b5dfc.woff) format("woff");
 }
 
 @font-face {
@@ -120,8 +120,8 @@
 	font-style: italic;
 	font-weight: 700;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-BoldItalic.30352075.woff2) format("woff2"),
-		url(/assets/fonts/Inter-BoldItalic.6b5fde51.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-BoldItalic.30352075.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-BoldItalic.6b5fde51.woff) format("woff");
 }
 
 @font-face {
@@ -129,8 +129,8 @@
 	font-style: normal;
 	font-weight: 800;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-ExtraBold.3e71093b.woff2) format("woff2"),
-		url(/assets/fonts/Inter-ExtraBold.00e1fde4.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-ExtraBold.3e71093b.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-ExtraBold.00e1fde4.woff) format("woff");
 }
 
 @font-face {
@@ -138,8 +138,8 @@
 	font-style: italic;
 	font-weight: 800;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-ExtraBoldItalic.c437ff9c.woff2) format("woff2"),
-		url(/assets/fonts/Inter-ExtraBoldItalic.941baf7c.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-ExtraBoldItalic.c437ff9c.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-ExtraBoldItalic.941baf7c.woff) format("woff");
 }
 
 @font-face {
@@ -147,8 +147,8 @@
 	font-style: normal;
 	font-weight: 900;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-Black.768169b1.woff2) format("woff2"),
-		url(/assets/fonts/Inter-Black.7bb62343.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Black.768169b1.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-Black.7bb62343.woff) format("woff");
 }
 
 @font-face {
@@ -156,8 +156,8 @@
 	font-style: italic;
 	font-weight: 900;
 	font-display: swap;
-	src: url(/assets/fonts/Inter-BlackItalic.71da97fd.woff2) format("woff2"),
-		url(/assets/fonts/Inter-BlackItalic.c769882b.woff) format("woff");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-BlackItalic.71da97fd.woff2) format("woff2"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-BlackItalic.c769882b.woff) format("woff");
 }
 
 /* -------------------------------------------------------
@@ -175,9 +175,9 @@ Usage:
 	font-weight: 100 900;
 	font-style: normal;
 	font-named-instance: 'Regular';
-	src: url(/assets/fonts/Inter-roman.var.73d88d2c.woff2) format("woff2 supports variations(gvar)"),
-		url(/assets/fonts/Inter-roman.var.73d88d2c.woff2) format("woff2-variations"),
-		url(/assets/fonts/Inter-roman.var.73d88d2c.woff2) format("woff2");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-roman.var.73d88d2c.woff2) format("woff2 supports variations(gvar)"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-roman.var.73d88d2c.woff2) format("woff2-variations"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-roman.var.73d88d2c.woff2) format("woff2");
 }
 
 @font-face {
@@ -185,9 +185,9 @@ Usage:
 	font-weight: 100 900;
 	font-style: italic;
 	font-named-instance: 'Italic';
-	src: url(/assets/fonts/Inter-italic.var.e2e12d2e.woff2) format("woff2 supports variations(gvar)"),
-		url(/assets/fonts/Inter-italic.var.e2e12d2e.woff2) format("woff2-variations"),
-		url(/assets/fonts/Inter-italic.var.e2e12d2e.woff2) format("woff2");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-italic.var.e2e12d2e.woff2) format("woff2 supports variations(gvar)"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-italic.var.e2e12d2e.woff2) format("woff2-variations"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter-italic.var.e2e12d2e.woff2) format("woff2");
 }
 
 /* --------------------------------------------------------------------------
@@ -208,8 +208,8 @@ explicitly, e.g.
 	font-family: 'Inter var experimental';
 	font-weight: 100 900;
 	font-style: oblique 0deg 10deg;
-	src: url(/assets/fonts/Inter.var.a738a131.woff2) format("woff2-variations"),
-		url(/assets/fonts/Inter.var.a738a131.woff2) format("woff2");
+	src: url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter.var.a738a131.woff2) format("woff2-variations"),
+		url(https://yugn27.github.io/metamoney-cdnjs/assets/fonts/Inter.var.a738a131.woff2) format("woff2");
 }
 
 
